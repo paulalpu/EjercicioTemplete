@@ -1,0 +1,21 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de registro
+*.log
+
+# Directorios de construcción
+/bin/
+/build/
+out/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el usuario
+*.iml
+.idea/ 
